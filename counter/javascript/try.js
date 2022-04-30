@@ -10,6 +10,6 @@
 //console.log(bonusPoints)
 
 function increment(){
-    console.log("this is yyyyyyyy")fhgjj
+    console.log("this is yyyyyyyy")
 }
 increment()
